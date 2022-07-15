@@ -1,0 +1,117 @@
+.all {
+  position: sticky;
+  width: 1924px;
+  height: 5507px;
+  background-color: rgb(255, 255, 255);
+}
+
+.img1 {
+  position: sticky;
+}
+
+.gra {
+  position: relative;
+  top: -1080px;
+}
+
+.pixar {
+  position: relative;
+  top: -2050px;
+  left: 15px;
+}
+
+.disney {
+  position: relative;
+  top: -2090px;
+  left: 200px;
+}
+
+.logo {
+  position: relative;
+  top: -2000px;
+  left: 100px;
+}
+
+.text {
+  position: relative;
+  font-family: "Noto Sans KR", sans-serif;
+  top: -1900px;
+  color: white;
+  font-size: 20px;
+  left: 50px;
+}
+
+.text2 {
+  position: relative;
+  font-family: "Noto Sans KR", sans-serif;
+  top: -2650px;
+  color: white;
+  font-size: 20px;
+  left: 1300px;
+}
+
+.text3 {
+  position: relative;
+  font-family: "Noto Sans KR", sans-serif;
+  top: -2680px;
+  color: white;
+  font-size: 20px;
+  left: 1500px;
+}
+
+.text4 {
+  position: relative;
+  font-family: "Noto Sans KR", sans-serif;
+  top: -2710px;
+  color: white;
+  font-size: 20px;
+  left: 1700px;
+}
+
+.box {
+  position: relative;
+  background-color: white;
+  top: -2078px;
+  width: 306px;
+  height: 86px;
+  left: 1500px;
+  border: 5px solid white;
+  opacity: 0.3;
+  border-radius: 60px;
+}
+
+.box2 {
+  position: relative;
+  top: -2175px;
+  width: 306px;
+  height: 86px;
+  left: 1500px;
+  border: 5px solid white;
+  border-radius: 60px;
+}
+
+.text5 {
+  font-family: "Gothic A1", sans-serif;
+  position: relative;
+  top: -2250px;
+  color: white;
+  font-size: 50px;
+  left: 1560px;
+}
+
+.box3 {
+  position: relative;
+  top: -2055px;
+  width: 1924px;
+  height: 1975px;
+  left: 1px;
+  background-color: white;
+}
+
+.text6 {
+  font-family: "Noto Sans KR", sans-serif;
+  position: relative;
+  top: -2250px;
+  font-size: 50px;
+  left: 1560px;
+}
